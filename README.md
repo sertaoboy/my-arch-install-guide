@@ -6,7 +6,7 @@ Repositorio para armezenar comandos e algumas dicas na instalacao do ArchLinux p
 - Comando para colocar o teclado em portugues
 <br>
 
-# Networking
+# Network
 > `ping archlinux.org`
 - Testar a conexao wifi
 - Caso nao esteja vizualiando as respotas, configurar a conexao via CLI:
